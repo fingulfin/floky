@@ -3,10 +3,10 @@ import {
 } from "./chunk-JW54EOPW.js";
 import "./chunk-XZI35I7H.js";
 import "./chunk-M7CJEGP6.js";
+import "./chunk-N4DOILP3.js";
 import {
   BidiModule
 } from "./chunk-AUDLW4C6.js";
-import "./chunk-N4DOILP3.js";
 import "./chunk-SPOG25LG.js";
 import {
   NgTemplateOutlet

@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import"./chunk-N7QBYMCK.mjs";var e=[{path:"",pathMatch:"full",loadComponent:()=>import("./chunk-SZYPKQOB.mjs"),\u0275entryName:"src/app/domains/admin/modules/apps/file-manager/features/file-manager.ts"},{path:"folders/:folderId",loadComponent:()=>import("./chunk-SZYPKQOB.mjs"),\u0275entryName:"src/app/domains/admin/modules/apps/file-manager/features/file-manager.ts"}],a=e;export{a as default};

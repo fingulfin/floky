@@ -1,0 +1,1 @@
+import"./chunk-7CGTOI24.js";var e=[{path:"",pathMatch:"full",loadComponent:()=>import("./chunk-7WLK6CQQ.js")},{path:"folders/:folderId",loadComponent:()=>import("./chunk-7WLK6CQQ.js")}],a=e;export{a as default};
