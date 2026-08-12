@@ -1,0 +1,1 @@
+import{e as m,f as a,g as i,h as u}from"./chunk-S45TBVKX.js";function w(o,f,t){let{years:s=0,months:d=0,weeks:n=0,days:r=0,hours:h=0,minutes:p=0,seconds:y=0}=f,e=a(o,t?.in),c=d||s?u(e,d+s*12):e,A=r||n?i(c,r+n*7):c,T=p+h*60,D=(y+T*60)*1e3;return m(t?.in||o,+A+D)}export{w as a};
